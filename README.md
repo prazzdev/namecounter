@@ -10,6 +10,7 @@
   ```shell
   npm install tailwindcss
   ```
+  *lebih lengkapnya bisa buka official documentation-nya di https://www.tailwindcss.com
 - Flowbite (Tailwind CSS Component)
   ```shell
   npm install flowbite
