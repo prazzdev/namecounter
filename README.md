@@ -24,3 +24,9 @@ Atau install sekaligus :
 npm install -D tailwindcss postcss autoprefixer flowbite
 ```
 *tambahkan -D untuk instalasi pada direktori development saja/bukan global.
+## Modul tambahan :
+- Nodemon
+  ```shell
+  npm install nodemon
+  ```
+  *untuk Auto Rebuild
