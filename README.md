@@ -1,6 +1,6 @@
 # NameCounter
 <b>Tugas Mata Kuliah Rekayasa Perangkat Lunak (RPL)</b> <br>
-<p>Sehubungan dengan tugas mata kuliah Rekayasa perangkat Lunak (RPL) yang diampu dosen Ibu Heni Rahmawati, M. Kom, saya akan membuat sebuah aplikasi berbasis web berupa counter nama individu secara global. Secara umum dibuat sebagai utilitas sederhana dengan data valid.</p> <br>
+<p>Sehubungan dengan tugas mata kuliah Rekayasa perangkat Lunak (RPL) yang diampu dosen Ibu Heni Rahmawati, M. Kom, saya akan membuat sebuah aplikasi berbasis web berupa counter nama individu secara global. Secara umum dibuat sebagai utilitas sederhana dengan data valid.</p>
 
 <p>Cara melakukan prediksi atau prakiraan suatu individu mayoritas berasal dari negara apa melalui pencarian berdasarkan kata kunci nama individu tersebut. Hasil dari pencarian hanya mengacu pada data yang tersimpan disisi server (±114.541.298 nama), tidak pada seluruh data penduduk dunia.</p>
 
